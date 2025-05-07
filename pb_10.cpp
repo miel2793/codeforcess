@@ -4,11 +4,11 @@ int main()
 {
     long long a,b;
     cin>>a>>b;
-    if(a % b == 0 || b % a==0)
+    if(a% b=0 || b%a=0)
     {
-        cout<<"Multiples";
+        cout<<"Mul";
     }
     else{
-        cout<<"No Multiples";
+        cout<<"not mul ";
     }
 }

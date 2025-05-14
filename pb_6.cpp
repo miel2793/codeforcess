@@ -8,6 +8,6 @@ int main()
  cin>>a>>b;
  cout<<(a%10)+(b%10)<<endl;
 
-
+//
 
 }

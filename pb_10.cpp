@@ -11,4 +11,5 @@ int main()
     else{
         cout<<"not mul ";
     }
+    //
 }
